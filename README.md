@@ -1,9 +1,9 @@
 # smallWallApp
 
-SmallWallApp est une petite application simpliste qui créer un mur ou des utilisateurs peuvent laisser des messages.
+SmallWallApp is a little simplistic application that create a wall or users can leave messages.
 
-C'est juste un petit exercice, il reste beaucoup de choses a améliorer.
+It's just a little exercise, there remain many things to improve.
 
-Mais la base de l'application sera réutilisée surement afin de faire un petit framework.
+But the basis of the application will be used again to probably make a small framework.
 
-L'architecture de cette application est en MVC, seulement il n'y a pas encore un vrai système de routeur indépendant.
+The architecture of this application is in MVC, only there is not yet a true independent router system.
