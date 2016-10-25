@@ -1,0 +1,31 @@
+/*  INDEX  */
+
+
+/*Position of checkbpx and submit button*/
+.divCheckbox
+{
+     padding-left: 0;
+}
+.divSubmit
+{
+    padding-right: 0;
+}
+
+.divSubmit > button {
+    float: right;
+}
+
+.message{
+    border-top: 5px;
+}
+
+hr {
+    background-color: black;
+    color: black;
+    height: 10px;
+    width: 100%;
+}
+
+.info{
+    color: grey;
+}
